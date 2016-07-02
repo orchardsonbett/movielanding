@@ -37,6 +37,8 @@ form {
     padding-left: 10px;
     padding-right: 10px;
     align-content: center;
+    border: 10px;
+    border-radius: 30px;
     
 }
 fieldset,
@@ -44,6 +46,8 @@ label,
 input {
     display: block;
     padding: 17.5px;
+    border: 10px;
+    border-radius: 30px;
 }
 input {
     padding-left: 90px;
