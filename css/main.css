@@ -10,6 +10,42 @@ header {
     padding-top: 5px;
     text-align: center;
 }
+h1 {
+    font-size: 70px;
+    font-family: 'Arbutus', cursive;
+}
+h2 {
+    font-size: 30px;
+     font-family: 'Sirin Stencil', cursive;
+}
+
 body {
     background: url(../img/Avengers-19.jpg);
+}
+form {
+    background-image: url(../img/Avengers-28.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 1250px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-content: center;
+    
+}
+fieldset,
+label,
+input {
+    display: block;
+    padding: 17.5px;
+}
+input {
+    padding-left: 80px;
+    padding-right: 80px;
+        
+}
+label {
+    font-size: 15px;
+}
+textarea {
+    padding: 10px;
 }
