@@ -1,0 +1,15 @@
+/*
+==================================
+Header
+==================================
+*/
+header {
+    font-family: 'Arbutus', cursive;
+    font-size: 40px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+body {
+    background: url(../img/Avengers-19.jpg);
+}
