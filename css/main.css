@@ -87,6 +87,10 @@ textarea {
     border: solid #777 5px;
     margin-left: 0;
     margin-right: 0;
+    background-image: url(../img/chris_evans_captain.jpg);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
 .info h2 {
     color: black;
@@ -97,4 +101,17 @@ textarea {
 .info h3 {
     color: black;
     font-size: 20px;
+}
+
+.btn-1 {
+    font-family: 'Sirin Stencil', cursive;
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 1px;
+    padding-right: 1px;
+    border: 10px;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
 }
